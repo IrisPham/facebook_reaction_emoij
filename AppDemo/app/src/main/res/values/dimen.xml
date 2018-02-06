@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_view_reaction">300dp</dimen>
+    <dimen name="height_view_reaction">250dp</dimen>
+</resources>

@@ -1,4 +1,4 @@
-package com.facebook.reaction.facebookreactionemoji;
+package com.facebook.reaction.emotion;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

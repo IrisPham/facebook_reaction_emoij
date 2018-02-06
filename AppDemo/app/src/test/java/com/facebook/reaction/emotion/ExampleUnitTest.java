@@ -1,4 +1,4 @@
-package com.facebook.reaction.facebookreactionemoji;
+package com.facebook.reaction.emotion;
 
 import org.junit.Test;
 
